@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6cd098e-d664-4f07-990f-9fea4f2816c1": {
+      "ProjectGuid": "b6cd098e-d664-4f07-990f-9fea4f2816c1",
+      "DisplayName": "sfml-test-pingpong",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
